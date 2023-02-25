@@ -6,7 +6,6 @@
 
 - 👋 Hi, I’m Mohammad Mahir 
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning MERN Stack
 - 📫 Reach me at mahir9908@outlook.com
 
 
